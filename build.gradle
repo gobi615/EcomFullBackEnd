@@ -17,7 +17,7 @@ plugins {
 
 apply plugin: 'application'
 
-mainClassName = "com.gobi.ecom.MainApp"
+mainClassName = "com.bookstore.MainApp"
 
 
 dependencies {
